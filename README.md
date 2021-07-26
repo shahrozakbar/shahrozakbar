@@ -10,6 +10,15 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img algin='lefft' alt='shahroz github stats' src='https://github-readme-stats-gve6upc4v-shahrozakbar.vercel.app/api?username=shahrozakbar&theme=dark&show_icons=true'/>
+  
+</details>
+
+
+
 ### Connect with me:
 
 [<img align="left" alt="shahrozakbar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
