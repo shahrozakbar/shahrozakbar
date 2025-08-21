@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shahrozakbar&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozakbar" /> 
+  <img src="https://img.shields.io/badge/Profile views-Unknown-lightgrey" alt="shahrozakbar" /> 
 </p>
 
 <p align="left"> 
