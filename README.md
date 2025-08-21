@@ -20,20 +20,23 @@
 </a>
 
 
-
 ### Languages and Tools:
-- ☁️ AWS  
-- 🐚 Bash  
-- 🐳 Docker  
-- ☸️ Kubernetes  
-- ⚙️ Terraform  
-- 🤖 Ansible  
-- 🔧 Jenkins  
-- 🌐 NGINX  
-- 🐧 Linux  
-- 🔗 Git  
-- 🐘 PostgreSQL  
-- 🟥 Redis  
+
+| Tool | Description |
+|------|-------------|
+| ☁️ AWS | Cloud services for deploying and scaling applications |
+| 🐚 Bash | Shell scripting for automation and server management |
+| 🐳 Docker | Containerization platform for consistent deployments |
+| ☸️ Kubernetes | Orchestration for managing containerized applications |
+| ⚙️ Terraform | Infrastructure as Code (IaC) for cloud resources |
+| 🤖 Ansible | Automation for configuration management and deployments |
+| 🔧 Jenkins | CI/CD tool to automate build, test, and deploy pipelines |
+| 🌐 NGINX | Web server and reverse proxy for high-performance apps |
+| 🐧 Linux | Operating system for servers and cloud infrastructure |
+| 🔗 Git | Version control for source code management |
+| 🐘 PostgreSQL | Open-source relational database management system |
+| 🟥 Redis | In-memory database for caching and fast data storage |
+
 
 ### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shahrozakbar&show_icons=true&locale=en&layout=compact)  
