@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahroz</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Profile views-Unknown-lightgrey" alt="shahrozakbar" /> 
-</p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
