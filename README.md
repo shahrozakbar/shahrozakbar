@@ -7,9 +7,11 @@ A passionate DevOps Engineer from Pakistan, currently based in **Dubai** 🌴 an
 [![Twitter Follow](https://img.shields.io/twitter/follow/shahroz_dhillon?logo=twitter&style=for-the-badge)](https://twitter.com/shahroz_dhillon)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahrozakbar)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **advanced Kubernetes, GitOps, and Cloud Security**  
-- 💬 Ask me about **CI/CD, Docker, Kubernetes, Terraform, and Cloud Infrastructure**  
-- 📫 How to reach me **shehrozakbar@gmail.com**  
+- 🌱 I’m currently advancing my skills in **Kubernetes, GitOps, and Cloud Security**  
+- 💬 I can help with **CI/CD pipelines, Docker, Kubernetes, Terraform, and Cloud Infrastructure**  
+- 📫 Contact me via **Email:** shehrozakbar@gmail.com  
+- 📞 **Phone (Dubai):** +971 56 740 5310  
+
 
 ### Connect with me:
 <a href="https://twitter.com/shahroz_dhillon" target="blank">
