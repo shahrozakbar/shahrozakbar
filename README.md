@@ -1,5 +1,8 @@
-# Hi 👋, I'm Shahroz
-### A passionate DevOps Engineer from Pakistan
+### Hi 👋, I'm Shahroz
+#### DevOps Engineer | CI/CD | Docker | Kubernetes | AWS | Automation Enthusiast  
+
+A passionate DevOps Engineer from Pakistan, currently based in **Dubai** 🌴 and available for opportunities across the **Gulf region**. I specialize in **CI/CD pipelines, containerization, cloud infrastructure, and automation**, helping teams deploy and scale applications efficiently.
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shahroz_dhillon?logo=twitter&style=for-the-badge)](https://twitter.com/shahroz_dhillon)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahrozakbar)](https://github.com/ryo-ma/github-profile-trophy)
