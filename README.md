@@ -1,48 +1,33 @@
-<h1 align="center">Hi 👋, I'm Shahroz</h1>
-<h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
+# Hi 👋, I'm Shahroz
+### A passionate DevOps Engineer from Pakistan
 
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahrozakbar" alt="shahrozakbar" />
-  </a> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/shahroz_dhillon" target="blank">
-    <img src="https://img.shields.io/twitter/follow/shahroz_dhillon?logo=twitter&style=for-the-badge" alt="shahroz_dhillon" />
-  </a> 
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/shahroz_dhillon?logo=twitter&style=for-the-badge)](https://twitter.com/shahroz_dhillon)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahrozakbar)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **advanced Kubernetes, GitOps, and Cloud Security**  
 - 💬 Ask me about **CI/CD, Docker, Kubernetes, Terraform, and Cloud Infrastructure**  
 - 📫 How to reach me **shehrozakbar@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahroz_dhillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahroz_dhillon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahrozakbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahrozakbar" height="30" width="40" /></a>
-<a href="https://instagram.com/shahroz_akbar_dhillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahroz_akbar_dhillon" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/shahroz_dhillon)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/shahrozakbar)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/shahroz_akbar_dhillon)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> 
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-</p>
+### Languages and Tools:
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+![Terraform](https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg)
+![Ansible](https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+![NGINX](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrozakbar&show_icons=true&locale=en&layout=compact" alt="shahrozakbar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahrozakbar&show_icons=true&locale=en" alt="shahrozakbar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrozakbar&" alt="shahrozakbar" /></p>
+### GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shahrozakbar&show_icons=true&locale=en&layout=compact)  
+![Shahroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrozakbar&show_icons=true&locale=en)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahrozakbar)
